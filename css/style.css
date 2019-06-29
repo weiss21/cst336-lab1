@@ -63,6 +63,11 @@ ul {
 }
 
 links {
-  display: flex;
   justify-content: center;
+  display: inline-block;
+}
+
+footer {
+  color: white;
+  font-size:.8em;
 }
