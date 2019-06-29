@@ -14,7 +14,7 @@ header, main, nav, footer {
 nav a {/* links within "nav" container */
     padding:15px;
     padding-bottom:4px;
-    font-size: 1.em;
+    font-size: 1.8em;
     text-decoration: none; /* removes underline */
     color: white;           /* by default, links are blue */ 
   }
@@ -29,12 +29,12 @@ main {
   display: flex;
   justify-content: center;
 }
+
 h1 {
         font-family: 'Source Sans Pro', sans-serif;
-        font-size: 12pt;
         color: #000099;
-        margin-bottom: 5px;
-        text-decoration: underline;
+        font-size: 4em;
+        margin-bottom: 0px
     }
   
 table {
