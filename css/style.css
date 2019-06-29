@@ -26,7 +26,7 @@ main {
   justify-content: center;
 }
 h1 {
-        text-align: center;
+        font-family: 'Source Sans Pro', sans-serif;
         font-size: 12pt;
         color: #000099;
         margin-bottom: 5px;
