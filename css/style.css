@@ -61,3 +61,8 @@ ul {
   margin: 0 auto;
   text-align: left;
 }
+
+links {
+  display: flex;
+  justify-content: center;
+}
