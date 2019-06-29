@@ -19,8 +19,8 @@ nav a {/* links within "nav" container */
     color: white;           /* by default, links are blue */ 
   }
 
-nav a:hover { /* pseudo class*/
-  border-bottom:2px orange solid;
+nav a:hover, #indexPage, #aboutPage, #contactPage{ /* pseudo class*/
+  border-bottom:2px gold solid;
   font-size: 2em;
   transition: .9s; /*transition effect */
 }
@@ -80,7 +80,7 @@ ul {
     text-align: center;
     vertical-align: middle;
     font-size: 18px;
-    padding-left: 25%;
+    padding-left: 50%;
     padding-right: 25%;
     box-sizing: border-box;
 }
